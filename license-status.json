@@ -1,4 +1,6 @@
 {
-  "revoked": [],
+  "revoked": [
+    "STEST-REVOKE-CHECK"
+  ],
   "notice": ""
 }
